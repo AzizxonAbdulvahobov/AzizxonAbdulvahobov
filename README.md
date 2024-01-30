@@ -3,7 +3,6 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=AzizxonAbdulvahobov)](https://github.com/Azizxon/github-profile-trophy)
 
-- 🌱 I’m currently learning python,C++,Django,Html,CSS,PostgreSQL/MySQL
 
 <h3 align="left">Contact me by telegram or Instagram:</h3>
 <p align="left">
