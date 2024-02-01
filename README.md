@@ -4,6 +4,14 @@
 
 　　　　　　,　　　　　　　.　　　　　　    　　　　 　　　　　　　　　　　　　　　　　　 ☀️ 　　　　　　　　　　　　　　　　　　    　      　　　　　        　　　　　　　　　　　　　. 　　　　　　　　　　.　　　　　　　　　　　　　. 　　　　　　　　　　　　　　　　       　   　　　　 　　　　　　　　　　　　　　　　       　   　　　　　　　　　　　　　　　　       　    ✦ 　   　　　,　　　　　　　　　　　    🚀 　　　　 　　,　　　 ‍ ‍ ‍ ‍ 　 　　　　　　　　　　　　.　　　　　 　　 　　　.　　　　　　　　　　　　　 　           　　　　　　　　　　　　　　　　　　　˚　　　 　   　　　　,　　　　　　　　　　　       　    　　　　　　　　　　　　　　　　.　　　  　　    　　　　　 　　　　　.　　　　　　　　　　　　　.　　　　　　　　　　　　　　　* 　　   　　　　　 ✦ 　　　　　　　         　        　　　　 　　 　　　　　　　 　　　　　.　　　　　　　　　　　　　　　　　　.　　　　　    　　. 　 　　　　　.　　　　 🌑 　　　　　   　　　　　.　　　　　　　　　　　.　　　　　　　　　　   　
       
+
+<h1>🌐 Socials:</h1>
+<p align="left">
+<a href="https://www.instagram.com/azizxon_0_0_8 target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Azizxon" height="30" width="40" /></a>
+<p align="left">
+      <h3 align="left">Contact me by telegram :</h3>
+https://t.me/Azizxon_2008  or  https://t.me/Azizxon_29_08_2008
+</p>
 ## Watch snake eating my github contributions
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
@@ -12,13 +20,6 @@
   
   <br/><br/><br/>
 </div>
-<h1>🌐 Socials:</h1>
-<p align="left">
-<a href="https://www.instagram.com/azizxon_0_0_8 target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Azizxon" height="30" width="40" /></a>
-<p align="left">
-      <h3 align="left">Contact me by telegram :</h3>
-https://t.me/Azizxon_2008  or  https://t.me/Azizxon_29_08_2008
-</p>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=AzizxonAbdulvahobov)](https://github.com/Azizxon/github-profile-trophy)
 
